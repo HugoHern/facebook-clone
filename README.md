@@ -4,6 +4,7 @@ Photo Credits:
 
 https://www.pexels.com/photo/black-bat-decoration-hanging-on-a-tree-5614389/
 https://www.pexels.com/photo/white-sheet-thrown-over-an-illuminated-pumpkin-to-make-a-ghost-decoration-for-halloween-5422596/
+https://www.pexels.com/photo/close-up-photography-of-man-wearing-sunglasses-1212984/
 
 # Getting Started with Create React App
 
