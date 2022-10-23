@@ -1,0 +1,79 @@
+.login{
+    height: 100vh;
+    background-color: rgb(250, 199, 250);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+
+    .card{
+        display: flex;
+        background-color: white;
+        width: 50%;
+        border-radius: 10px;
+        min-height: 600px;
+        .left{
+            flex: 1;
+            background: linear-gradient(rgba(39, 11, 96, 0.5), rgba(39, 11, 96, 0.5)),  url('https://images.pexels.com/photos/5422596/pexels-photo-5422596.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5422596.jpg&fm=jpg&_gl=1*tvkmtz*_ga*NDEzMzY0MjE4LjE2NjU3OTM1NTU.*_ga_8JE65Q40S6*MTY2NjQ4NTYxNC4zLjEuMTY2NjQ4NTcxMy4wLjAuMA..') center;
+            background-size: cover;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            color: white;
+
+            h1{
+                  font-size: 100px;
+                  line-height: 100px;
+            }
+            p{}
+            span{
+                font-size: 14px;
+            }
+            button{
+                width: 50%;
+                padding: 10px;
+                 border: none;
+                 background-color: white;
+                 color: purple;
+                 font-weight: bold;
+                 cursor: pointer;
+            }
+        }
+        .right{
+            flex: 1;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+            justify-content: center;
+
+            h1{
+                color: #555;
+               
+            }
+            form{
+                display: flex;
+                flex-direction: column;
+                gap: 30px;
+
+
+                input{
+                    border: none;
+                    border-bottom: 1px solid lightgrey;
+                    padding: 20px 10px;
+                }
+                button{
+                    width: 50%;
+                    padding: 10px;
+                    border: none;
+                    background-color: rgb(231, 150, 231);
+                    color: white;
+                    font-weight: bold;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
