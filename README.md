@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+Photo Credits: 
+
+https://www.pexels.com/photo/black-bat-decoration-hanging-on-a-tree-5614389/
+https://www.pexels.com/photo/white-sheet-thrown-over-an-illuminated-pumpkin-to-make-a-ghost-decoration-for-halloween-5422596/
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

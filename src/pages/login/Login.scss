@@ -8,11 +8,15 @@
 
 
     .card{
+        width: 50%;
         display: flex;
+        flex-direction: row;
         background-color: white;
         width: 50%;
         border-radius: 10px;
         min-height: 600px;
+        overflow: hidden;
+
         .left{
             flex: 1;
             background: linear-gradient(rgba(39, 11, 96, 0.5), rgba(39, 11, 96, 0.5)),  url('https://images.pexels.com/photos/5422596/pexels-photo-5422596.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5422596.jpg&fm=jpg&_gl=1*tvkmtz*_ga*NDEzMzY0MjE4LjE2NjU3OTM1NTU.*_ga_8JE65Q40S6*MTY2NjQ4NTYxNC4zLjEuMTY2NjQ4NTcxMy4wLjAuMA..') center;
